@@ -9,10 +9,10 @@
 
 body {
   font-family: "Ubuntu Sans Mono", monospace;
-  /* background-image: url(./assets/My_back.png);
+  background-image: url(./assets/My_back.png);
   background-position: center;
   background-attachment: fixed;
-  background-size: cover; */
+  background-size: cover;
 }
 
 html {
